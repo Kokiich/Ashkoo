@@ -263,7 +263,7 @@ if st.session_state.blown:
       <div class="quote-mark">”</div>
       <p class="ar">
         حبيبي عيوني الحلوين، يوم ميلاد سعيد 💕<br>
-        يقلبك كل عام وأنت بخير، وزاهي، وباهي.<br>
+        اقلبي كل عام وأنت بخير، وزاهي، وباهي<br>
         ربي يحفظك، ويحققلك كل ما في بالك 💕
         <span class="fr">Je t'aime mon amour 🫶</span>
       </p>
